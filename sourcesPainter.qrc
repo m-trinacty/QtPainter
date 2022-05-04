@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/">
+        <file>line.png</file>
+        <file>paint-can.png</file>
+        <file>paint-brush.png</file>
+        <file>stamp.png</file>
+        <file>paint-bucket.png</file>
+        <file>text.png</file>
+        <file>minus.png</file>
+        <file>plus.png</file>
+        <file>italic.png</file>
+        <file>bold.png</file>
+        <file>pen.png</file>
+        <file>circle.png</file>
+        <file>polygon.png</file>
+        <file>shape.png</file>
+        <file>square.png</file>
+    </qresource>
+</RCC>
